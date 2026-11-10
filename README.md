@@ -49,7 +49,7 @@ A Proof-of-Concept AI-powered chatbot that interacts with ServiceNow through nat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vinay682000/service-now-langchain.git
+git clone https://github.com/VinayNarne/service-now-langchain.git
 cd servicenow-ai-agent
 ```
 
